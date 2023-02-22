@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Airpods",
+    "description": "u wear them in ur earballs",
+    "price": 89.99
+  },
+  {
+    "id": "2",
+    "name": "iPhone",
+    "description": "a mini pocket size computer basically",
+    "price": 899.99
+  },
+  {
+    "id": "3",
+    "name": "iPad",
+    "description": "a slim touchscreen computer basically",
+    "price": 599.99
+  },
+  {
+    "id": "4",
+    "name": "iDongle",
+    "description": "apple make money off removing ports",
+    "price": 99.99
+  },
+  { "id": "5", "name": "iDog", "description": "robot dog idk", "price": 999.99 }
+]
